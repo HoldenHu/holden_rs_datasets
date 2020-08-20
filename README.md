@@ -1,12 +1,12 @@
-# Welcome to rs_datasets
-
+# Welcome to holden_rs_datasets
+This is forked from the Darel13712/rs_datasets. I add more dataset support to read into the pandas.
 This tool allows you download, unpack and read 
 recommender systems datasets into `pandas.DataFrame` as easy as `data = Dataset()`.
 
 ## Installation
 
 ```
-pip install rs_datasets
+pip install git+git://github.com/HoldenHu/holden_rs_datasets.git
 ```
 
 ## Documentation
